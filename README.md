@@ -24,7 +24,7 @@ The API work in progress: Multi-level hierarchy traversal (teams → spaces → 
 **Status:** Dummy data layer complete and deployed. Live API pipeline in active development.
 🔗 Live App (Dummy Data coming soon) | GitHub Repo 
 
-⏸️** Project 3 — Chez Toi (Paused)**
+⏸️**Project 3 — Chez Toi (Paused)**
 
 **A RAG-powered French-language housing navigator built for Denver's African francophone immigrant community.** Designed to answer questions about tenant rights, assistance programs, and neighborhood resources in French.
 **Why this one matters:** I'm building it in collaboration with community organizations serving West African immigrants and French speaking immagrants in Denver. The technical problem is real. The people it serves are real. When my ancestors emmigrated to New Hampshire and Vermont from Quebec there was very little help for them this program means to solve this problem for people moving to Denver in 2026. Almost every French speaking immigrant that I have spoken to in Denver has stopped and taken the time to help me practice my French. This is my way of repaying that. Getting it right matters more than getting it done fast.
@@ -53,7 +53,7 @@ That's what I'm working toward. The projects here are what that looks like in pr
 
 I build in public on LinkedIn and document the process including the parts that don't work. If you want to follow along https://www.linkedin.com/in/bryanstcyr91/
 
-**🗺️** What's Next**
-**
+🗺️**What's Next**
+
 Building toward a 10-project portfolio across API integration, RAG systems, multi-agent workflows, and fine-tuned classification models. Each project builds on the last.
 The goal by end of 2026: a portfolio that demonstrates the full stack from data pipelines to deployed AI applications — built on real problems, not tutorials.
