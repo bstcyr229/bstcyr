@@ -27,6 +27,7 @@ What I learned: API authentication, working with the requests library, Google Sh
 🔗 Github Repo https://github.com/bstcyr229/clickup-time-dashboard
 
 🚧 **Project 3 — ClickUp Dashboard RAG Agent**
+
 **A RAG Agent that enahnces the Streamlit powered ClickUp Time Intellegence Dashboard**
 
 **The Real Problem That It Solves**
