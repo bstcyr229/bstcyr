@@ -9,7 +9,7 @@ The goal of this portfolio is to master Python through project-based learning. I
 
 - Applied Iteration (AI-Guided): I work through project challenges using an AI tutor configured to the Socratic method. This process is designed to push back when I hit conceptual plateaus and requires periodic summaries to ensure "productive struggle" leads to genuine retention.
 
-- Conceptual Mapping (NotebookLM): I curate open-source resources into structured modules—such as Data Structures or Algorithms, to bridge the gap between practical implementation and Computer Science theory.
+- Conceptual Mapping (NotebookLM): I curate open-source resources into structured modules, such as Data Structures or Algorithms, to bridge the gap between practical implementation and Computer Science theory.
 
 I believe that there is no long-term business value in shipping code that you do not fundamentally understand. My focus here is not just on the final product, but on the mastery of the process.
 
