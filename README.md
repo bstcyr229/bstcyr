@@ -13,7 +13,7 @@ The goal of this portfolio is to master Python through project-based learning. I
 
 I believe that there is no long-term business value in shipping code that you do not fundamentally understand. My focus here is not just on the final product, but on the mastery of the process.
 
-**🔨 What I'm Actually Building**
+**🔨 What I'm Building**
 
 ✅ **Project 1 — LingQ Language Stats Automation**
 
