@@ -4,7 +4,14 @@ My background is operations and systems consulting.
 
 My background spans operations, education, and systems consulting. Across every role the work was the same, figure out why something isn't functioning and build the structure to fix it Now I'm adding the technical layer, Python, APIs, and applied AI, to do that work at a different scale and toward something bigger. The problems I care about are specific: a small business owner who needs real insight into where their time and money are actually going, a French-speaking immigrant in Denver who needs housing guidance in their own language, and eventually the kinds of systems that help humanity do things we've only dreamed about. The thread connecting all of it is the same, build something real, for real people, and get it right.
 
-The purpose of this portfolio is to use projects to learn python. There are two main ways that I am doing this, one is the actual projects themeslves. Full disclosure I am using an AI tutor that uses the socratic method to guide me to the answers, push back when I don't understand and summarize every four or five questions to solidify understanding through productive struggle. The second method is using notebookLM to gather open source resources into "classes" like Data Structures or Algorithms from CS theory so that I can truly understand why my code. I believe that there is no long term business value in shipping products you don't understand.
+My Learning Philosophy
+The goal of this portfolio is to master Python through project-based learning. I utilize two primary methodologies to ensure deep comprehension:
+
+- Applied Iteration (AI-Guided): I work through project challenges using an AI tutor configured to the Socratic method. This process is designed to push back when I hit conceptual plateaus and requires periodic summaries to ensure "productive struggle" leads to genuine retention.
+
+- Conceptual Mapping (NotebookLM): I curate open-source resources into structured modules—such as Data Structures or Algorithms, to bridge the gap between practical implementation and Computer Science theory.
+
+I believe that there is no long-term business value in shipping code that you do not fundamentally understand. My focus here is not just on the final product, but on the mastery of the process.
 
 **🔨 What I'm Actually Building**
 
