@@ -1,4 +1,4 @@
-Hi, I'm Bryan St. Cyr 👋
+Hi, I'm Bryan St. Cyr 
 I am currently an Operaitons Manager, I build real things, document the process honestly, and ship them publicly.
 My background is operations and systems consulting. 
 
