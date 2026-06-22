@@ -45,14 +45,6 @@ The script establishes a fully functioning, self-contained Retrieval-Augmented G
 
 🔗https://github.com/bstcyr229/ClickUp_RAG_Agent
 
-
-⏸️**Project 4 — Chez Toi (Paused)**
-
-**A RAG-powered French-language housing navigator built for Denver's African francophone immigrant community.** Designed to answer questions about tenant rights, assistance programs, and neighborhood resources in French.
-**Why this one matters:** I'm building it in collaboration with community organizations serving West African immigrants and French speaking immagrants in Denver. The technical problem is real. The people it serves are real. When my ancestors emmigrated to New Hampshire and Vermont from Quebec there was very little help for them this program means to solve this problem for people moving to Denver in 2026. Almost every French speaking immigrant that I have spoken to in Denver has stopped and taken the time to help me practice my French. This is my way of repaying that. Getting it right matters more than getting it done fast.
-**Stack**: Python, LangChain, ChromaDB, SentenceTransformer (HuggingFace), PyPDF
-**Status**: Community outreach in planned. Paused until Project 2 API pipeline is finished — the data engineering patterns I'm building there apply directly to the ingestion pipeline this project needs.
-
 🧰 **Tech Stack**
 **Languages**:     Python (intermediate — API integration, data pipelines, deployed applications)
                French (C1 — full professional proficiency, self-directed acquisition)
