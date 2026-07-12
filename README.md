@@ -1,5 +1,6 @@
 Hi, I'm Bryan St. Cyr, 
-I am currently a Director of Operations, I build real things, document the process honestly, and ship them publicly.
+I am currently a Director of Operations, I build real things that solve business problems, document the process honestly, and ship them publicly.
+
 My background is operations and systems consulting. 
 
 My background spans operations, education, and systems consulting. Across every role the work was the same, figure out why something isn't functioning and build the structure to fix it. Now I'm adding the technical layer, Python, APIs, and applied AI, to do that work at a different scale and toward something bigger. The problems I care about are specific: a small business owner who needs real insight into where their time and money are actually going, a French-speaking immigrant in Denver who needs housing guidance in their own language, and eventually the kinds of systems that help humanity do things we've only dreamed about. The thread connecting all of it is the same, build something real, for real people, and get it right.
@@ -50,7 +51,7 @@ The script establishes a fully functioning, self-contained Retrieval-Augmented G
 🧰 **Tech Stack**
 **Languages**:     Python (intermediate — API integration, data pipelines, deployed applications)
                French (C1 — full professional proficiency, self-directed acquisition)
-               Spanish (B1+ — developing production skills)
+          
 
 **Libraries**:     pandas, Streamlit, Altair, LangChain, ChromaDB, requests, python-dotenv
 
@@ -72,4 +73,4 @@ I build in public on LinkedIn and document the process including the parts that 
 🗺️**What's Next**
 
 Building toward a 10-project portfolio across API integration, RAG systems, multi-agent workflows, and fine-tuned classification models. Each project builds on the last.
-The goal by end of 2026: a portfolio that demonstrates the full stack from data pipelines to deployed AI applications, built on real problems, not tutorials.
+The goal by end of 2027: a portfolio that demonstrates the full stack from data pipelines to deployed AI applications, built on real problems, not tutorials that facilitates real knowledge of programming and AI.
