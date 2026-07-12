@@ -29,7 +29,7 @@ What I learned: API authentication, working with the requests library, Google Sh
 
 **A Streamlit dashboard that connects to the ClickUp API and visualizes billable vs. estimated vs. actual time across teams, assignees, and tasks.**
 
-**The real problem it solves:** ClickUp's native reporting can tell you hours logged. It can't easily show you where your estimates are consistently wrong, which team members are over capacity, or what your actual billable efficiency looks like. This does.
+**The real problem it solves:** ClickUp's native reporting can tell you hours logged. But almost every client I had during my time at Kolme Group wanted to be able to better visualize how their teams were spending their time, especially when it comes to hours logged vs billalbe hours logged. ClickUp can't easily show you where your estimates are consistently wrong, which team members are over capacity, or what your actual billable efficiency looks like. This does.
 
 **What I've learned so far:** The ClickUp API and the ClickUp interface don't always agree. Time tracking data lives in a completely separate endpoint from tasks. Estimated time only appears on a task object if an estimate has actually been set. Documenting these gaps honestly has been as valuable as building the dashboard itself and validates my learning method thus far. On the CS theory front, I'm realizing that all that I have been reading about Big O notation has suddenly become clear after examining this project with all of it's nested loops. The lack of algorithimic efficency here makes this project a prime candidate for my first refactor project. 
 
