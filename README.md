@@ -1,5 +1,5 @@
 Hi, I'm Bryan St. Cyr, 
-I am currently a Director of Operations, I build real things that solve business problems, document the process honestly, and ship them publicly.
+I build real things that solve business problems, document the process honestly, and ship them publicly.
 
 My background is operations and systems consulting. 
 
