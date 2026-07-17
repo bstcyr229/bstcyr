@@ -36,17 +36,30 @@ What I learned: API authentication, working with the requests library, Google Sh
 
 🔗 Github Repo https://github.com/bstcyr229/clickup-time-dashboard
 
-🚧 **Project 3 — ClickUp Dashboard RAG Agent**
+
+✅ **Project 3 — ClickUp Dashboard RAG Agent**
 
 **A RAG Agent that enahnces the Streamlit powered ClickUp Time Intellegence Dashboard**
 
 **The Real Problem That It Solves**
 This code bridges the operational data accessibility gap for executive decision-makers by replacing rigid reporting interfaces and raw spreadsheets with an intuitive natural language search. Instead of forcing leadership to manually navigate complex software to calculate project health, it transforms fragmented time-tracking data, resource estimates, and billable metrics into a queryable knowledge base that answers conceptual business questions. Furthermore, by strictly binding the language model’s responses to verified local data and enforcing an explicit "never guess" directive, it eliminates the risk of AI hallucination, providing a trusted pipeline for high-stakes operational reporting.
 
-**What's Built So Far** 
+**What I've Learned from This Progject** 
 The script establishes a fully functioning, self-contained Retrieval-Augmented Generation (RAG) backend pipeline wrapped in a basic web interface. It successfully hooks into an external dashboard module to ingest live ClickUp data, flattens tabular task metrics (such as team member IDs, billable hours, and timelines) into text chunks with preserved metadata, and persists them into a local ChromaDB vector database using native Google Gemini embeddings. The system is fully wired to capture user text input, execute a semantic top-10 query against the vector store, pass that context directly to the high-efficiency gemini-3.1-flash-lite model for strict factual synthesis, and utilize Streamlit resource-caching to ensure the entire extraction and database connection architecture runs efficiently without redundant re-execution.
 
 🔗https://github.com/bstcyr229/ClickUp_RAG_Agent
+
+🚧 **Project 4 - Refactor Project #3 **
+
+**The Real Problem That It Solves**
+Right now project #3 which combines my ClickUp Time Intellgence Dashboard and a native RAG agent works, but there are some performance issues that I would like to improve on by implementing the following changes.
+
+1. Restructure the code using Object Oriented Programming Principles
+2. Refactor Perfomance using Big O Notation as a standard
+3. Making the Program more Robust via Error Handling and Unit Tests
+4. Create an Eval Harness to Evaluate RAG Agent Performance
+
+🔗 In Progress
 
 🧰 **Tech Stack**
 **Languages**:     Python (intermediate — API integration, data pipelines, deployed applications)
