@@ -3,7 +3,7 @@ I build real things that solve business problems, document the process honestly,
 
 My background is operations and systems consulting. 
 
-My background spans operations, education, and systems consulting. Across every role the work was the same, figure out why something isn't functioning and build the structure to fix it. Now I'm adding the technical layer, Python, APIs, and applied AI, to do that work at a different scale and toward something bigger. The problems I care about are specific: a small business owner who needs real insight into where their time and money are actually going, a French-speaking immigrant in Denver who needs housing guidance in their own language, and eventually the kinds of systems that help humanity do things we've only dreamed about. The thread connecting all of it is the same, build something real, for real people, and get it right.
+My background spans operations, education, and systems consulting. Across every role the work was the same, figure out why something isn't functioning and build the structure to fix it. Now I'm adding the technical layer, Python, APIs, and applied AI, to do that work at a different scale and toward something bigger. The problems I care about are specific: a small business owner who needs real insight into where their time and money are actually going, using AI to more rapidly and accurately respond to business challenges, then eventually the kinds of systems that help humanity do things we've only dreamed about. The thread connecting all of it is the same, build something real, for real people, and get it right.
 
 My Learning Philosophy
 The goal of this portfolio is to master Python through project-based learning. I utilize two primary methodologies to ensure deep comprehension:
