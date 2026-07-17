@@ -55,7 +55,7 @@ The script establishes a fully functioning, self-contained Retrieval-Augmented G
 Right now project #3 which combines my ClickUp Time Intellgence Dashboard and a native RAG agent works, but there are some performance issues that I would like to improve on by implementing the following changes.
 
 1. Restructure the code using Object Oriented Programming Principles
-2. Refactor Perfomance using Big O Notation as a standard
+2. Refactor Performance using Big O Notation as a standard
 3. Making the Program more Robust via Error Handling and Unit Tests
 4. Create an Eval Harness to Evaluate RAG Agent Performance
 
