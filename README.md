@@ -18,10 +18,9 @@ I believe that there is no long-term business value in shipping code that you do
 
 **What it is:** A Python script that pulls personal language learning data from the LingQ API and writes it to Google Sheets automatically.*
 
-**The real problem it solves:** LingQ is great, its one of hte main reasons why I can speak French today, however it does not allow you to set your own goals and track them so I wanted to export my stats into google sheets so I can better visualize the data.
-What I learned: API authentication, working with the requests library, Google Sheets API via gspread, environment variables with python-dotenv, and GitHub Actions for scheduling.
+**The real problem it solves:** LingQ as a language learning program is great, it's one of the main reasons why I can speak French today, however it does not allow you to set your own goals and track them so I wanted to export my stats into google sheets so I can better visualize the data.
 
-**What I've Learned from This project:** Python scripting fundamentals, basic API functionalities, version control and the google cloud API.
+**What I learned from this project:** API authentication, working with the requests library, Google Sheets API via gspread, environment variables with python-dotenv, and version control with GitHub.
 
 🔗 GitHub Repo https://github.com/bstcyr229/lingq_stats_tracker
 
