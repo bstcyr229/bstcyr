@@ -57,13 +57,13 @@ Create an Eval Harness to Evaluate RAG Agent Performance
 
 🧰 **Tech Stack** 
 
-**Languages:** Python (intermediate — API integration, data pipelines, deployed applications) French (C1 — full professional proficiency, self-directed acquisition)
+**Languages:** Python (Intermediate — API integration, data pipelines, deployed applications) French (C1 — full professional proficiency, self-directed acquisition)
 
 **Libraries:** pandas, Streamlit, Altair, LangChain, ChromaDB, requests, python-dotenv
 
 **Tools:** VS Code, Git Bash, GitHub, Streamlit Community Cloud
 
-**Platforms:** ClickUp (Expert & Advanced AI Certified), Make.com (Intemediate Certified)
+**Platforms:** ClickUp (Expert & Advanced AI Certified), Make.com (Intermediate Certified)
 
 **In Progress:** PMP Certification (expected in October 2026), RAG systems, LangChain agents
 
@@ -77,6 +77,6 @@ I build in public on LinkedIn and document the process including the parts that 
 
 **🗺️What's Next**
 
-Building toward a 10-project portfolio across API integration, RAG systems, multi-agent workflows, and fine-tuned classification models. Each project builds on the last. The goal by end of 2027: a portfolio that demonstrates the full stack from data pipelines to deployed AI applications, built on real problems, not tutorials that facilitates real knowledge of programming and AI.
+Building toward a 10-project portfolio across API integration, RAG systems, multi-agent workflows, and fine-tuned classification models. Each project builds on the last. The goal by the end of 2027: a portfolio that demonstrates the full stack from data pipelines to deployed AI applications, built on real problems, not tutorials that facilitates real knowledge of programming and AI.
 
 
