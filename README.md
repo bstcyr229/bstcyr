@@ -68,7 +68,7 @@ Create an Eval Harness to Evaluate RAG Agent Performance
 
 **In Progress:** PMP Certification (expected in October 2026), RAG systems, LangChain agents
 
-📍 Where I'm Coming From I didn't start as a developer. I started as someone who kept running into the limits of no-code tools and decided to learn what was on the other side of that wall. Then AI made me genuinely curious, not just about what these systems could do, but about how they actually work, who they serve, and what kind of future they're building toward. That curiosity became a commitment.
+📍 **Where I'm Coming From** I didn't start as a developer. I started as someone who kept running into the limits of no-code tools and decided to learn what was on the other side of that wall. Then AI made me genuinely curious, not just about what these systems could do, but about how they actually work, who they serve, and what kind of future they're building toward. That curiosity became a commitment.
 
 I believe AI built well can do extraordinary things. It can help a francophone immigrant in Denver find housing in their own language. It can help a small business owner understand where their time is actually going. It can eventually help put people in space and solve problems we haven't fully named yet. But only if the people building it understand both the technology and the humans on the other side of it.
 
