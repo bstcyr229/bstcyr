@@ -59,8 +59,11 @@ Create an Eval Harness to Evaluate RAG Agent Performance
 🧰 **Tech Stack** 
 
 **Languages:** Python (intermediate — API integration, data pipelines, deployed applications) French (C1 — full professional proficiency, self-directed acquisition)
+
 **Libraries:** pandas, Streamlit, Altair, LangChain, ChromaDB, requests, python-dotenv
+
 **Tools:** VS Code, Git Bash, GitHub, Streamlit Community Cloud
+
 **Platforms:** ClickUp (Expert & Advanced AI Certified), Make.com (Intemediate Certified)
 
 **In Progress:** PMP Certification (expected in October 2026), RAG systems, LangChain agents
