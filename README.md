@@ -21,7 +21,7 @@ I believe that there is no long-term business value in shipping code that you do
 **The real problem it solves:** LingQ is great, its one of hte main reasons why I can speak French today, however it does not allow you to set your own goals and track them so I wanted to export my stats into google sheets so I can better visualize the data.
 What I learned: API authentication, working with the requests library, Google Sheets API via gspread, environment variables with python-dotenv, and GitHub Actions for scheduling.
 
-**What I've Learned from This project:** Python scripting fundeamentals, basic API functonalities, version control and the google cloud API.  
+**What I've Learned from This project:** Python scripting fundamentals, basic API functionalities, version control and the google cloud API.
 
 🔗 GitHub Repo https://github.com/bstcyr229/lingq_stats_tracker
 
