@@ -57,7 +57,7 @@ I believe that there is no long-term business value in shipping code that you do
 
 🧰 **Tech Stack** 
 
-**Languages:** Python (Intermediate — API integration, data pipelines, deployed applications) French (C1 — full professional proficiency, self-directed acquisition)
+**Languages:** Python (API integration, data pipelines, deployed applications, RAG Agents) French (Full Professional Proficiency, self-directed acquisition)
 
 **Libraries:** pandas, Streamlit, Altair, LangChain, ChromaDB, requests, python-dotenv
 
