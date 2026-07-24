@@ -53,7 +53,7 @@ I believe that there is no long-term business value in shipping code that you do
 - Making the Program more Robust via Error Handling and Unit Tests
 - Create an Eval Harness to Evaluate RAG Agent Performance
 
-🔗 **In Progress**
+🔗 https://github.com/bstcyr229/ClickUp_RAG_Agent/tree/project-refactor
 
 🧰 **Tech Stack** 
 
