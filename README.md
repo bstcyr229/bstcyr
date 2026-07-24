@@ -49,6 +49,7 @@ I believe that there is no long-term business value in shipping code that you do
 **The Real Problem That It Solves:** Right now project #3 which combines my ClickUp Time Intelligence Dashboard and a native RAG agent works, but there are some performance issues that I would like to improve on by implementing the following changes.
 
 - Restructure the code using Object Oriented Programming Principles
+- Eliminate nested loops with Pandas join method 
 - Refactor Performance using Big O Notation as a standard
 - Making the Program more Robust via Error Handling and Unit Tests
 - Create an Eval Harness to Evaluate RAG Agent Performance
