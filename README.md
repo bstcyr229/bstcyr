@@ -26,7 +26,7 @@ I believe that there is no long-term business value in shipping code that you do
 
 **✅ Project 2 — ClickUp Time Intelligence Dashboard**
 
-**What it is:**:A Streamlit dashboard that connects to the ClickUp API and visualizes billable vs. estimated vs. actual time across teams, assignees, and tasks.
+**What it is:** A Streamlit dashboard that connects to the ClickUp API and visualizes billable vs. estimated vs. actual time across teams, assignees, and tasks.
 
 **The real problem it solves:** ClickUp's native reporting can tell you hours logged. But almost every client I had during my time at Kolme Group wanted to be able to better visualize how their teams were spending their time, especially when it comes to hours logged vs billable hours logged. ClickUp can't easily show you where your estimates are consistently wrong, which team members are over capacity, or what your actual billable efficiency looks like. This does.
 
