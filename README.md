@@ -46,6 +46,8 @@ I believe that there is no long-term business value in shipping code that you do
 
 ✅**Project 4 Targeted Lead Generation & Data Pipeline (Private Repository)**
 
+**What it is:** A custom Python application that interfaces with a real estate API (RentCast) to extract, filter, and normalize high-volume property records by construction parameters, in order to pinpoint high-probability sales opportunities and drive targeted pipeline growth.
+
 **The Real Problem That It Solves:**
 Here’s my take: traditional door-to-door roofing canvassing is notoriously inefficient because rep time is usually wasted knocking on "blind" targets—homes where owners either aren't qualified, have brand-new roofs, or live in properties where insurance claims are unlikely to go through.
 
@@ -54,7 +56,7 @@ Your RentCast Python pipeline completely flips that dynamic by giving canvassers
 **What I've Learned from This Project**
 The biggest lesson that I learned from this lesson is how when you combine domain knowledge with a clear idea of what you want you can make a program that really makes a difference for a company. Within a day of this program being tested, we saw an immediate increase in customer engagement. In addition I learned how to read and write csv files to export leads to users, as well as reinforced a lot of what I have previously learned  as I avoided using AI for the most on this project so it was truly a verification of my method working as I really did not run into many problems that I couldn't solve by myself.
 
-Architected a custom Python application interfacing with real estate APIs (RentCast) to extract, filter, and normalize high-volume property records by construction parameters. Designed to streamline field canvassing strategies, resulting in an immediate increase in customer engagement and actionable sales lead generation. (Code walkthrough or demo available upon request)
+(Code walkthrough or demo available upon request)
 
 🚧 **Project 5 - Refactor Project #3 ClickUp Time Intelligence Dashboard with Native RAG Agent**
 
